@@ -1,4 +1,4 @@
-<h1 align="center"> 图书管理平台 </h1>
+<h1 align="center"> 图书管理系统前端 </h1>
 
 
 
