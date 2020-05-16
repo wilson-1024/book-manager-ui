@@ -12,7 +12,7 @@
 
 1.拉取项目至本地
 
-命令：`git clone https://github.com/Zealon159/book-ms-ui.git`
+命令：`git clone https://github.com/850125665/book-manager-ui.git`
 
 2.初始化npm依赖
 
